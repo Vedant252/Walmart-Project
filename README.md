@@ -8,7 +8,7 @@ This project is an end-to-end **Sales Data Analysis** solution built using **Pyt
 
 The workflow includes data cleaning, preprocessing, feature engineering, SQL analysis, and solving real-world business problems using advanced SQL concepts such as **CTEs, Window Functions, Aggregate Functions, CASE Statements, and Date Functions**.
 
-The project demonstrates a complete analytics workflow followed by data analysts—from raw data to business insights.
+The project demonstrates a complete analytics workflow followed by data analysts from raw data to business insights.
 
 ---
 
